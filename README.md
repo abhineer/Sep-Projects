@@ -9,6 +9,9 @@ Additional Agentic AI capstone project definitions, in the same format as the Ju
 | [SellerPulse](SellerPulse) | Retail / E-commerce — seller engagement agent |
 | [CreditCoach](CreditCoach) | Finance — credit-building assistant |
 | [ChangeRiskAdvisor](ChangeRiskAdvisor) | DevOps / SRE — pre-deployment change-risk advisor |
+| [OpsPilot](OpsPilot) | DevOps / SRE — self-hosted SLM SRE agent (infra/eval project) |
+
+> **Note:** OpsPilot is a solo infrastructure/evaluation project (~4 hrs/week, real GPU rental cost, 20 core tasks across 4 weeks + an optional fine-tuning Phase 2) rather than a team capstone — its `requirements.md`/`tasks.md` follow the same two-file format but not the team-capstone content described below (no Gradio UI, no 6-pager/PR-FAQ, no sample_data folder).
 
 ## Structure
 
