@@ -11,6 +11,7 @@ Additional Agentic AI capstone project definitions, in the same format as the Ju
 | [ChangeRiskAdvisor](ChangeRiskAdvisor) | DevOps / SRE — pre-deployment change-risk advisor |
 | [OpsPilot](OpsPilot) | DevOps / SRE — self-hosted SLM SRE agent (infra/eval project) |
 | [FraudPilot](FraudPilot) | Finance (Bank Fraud/Transaction Monitoring) — self-hosted SLM fraud-investigation agent (infra/eval project) |
+| [DispatchDesk](DispatchDesk) | Supply Chain & Logistics — last-mile dispatch copilot for quick-commerce dark stores |
 
 > **Note:** OpsPilot and FraudPilot are solo infrastructure/evaluation projects (~4 hrs/week, real GPU rental cost, 20 core tasks across 4 weeks + an optional fine-tuning Phase 2) rather than team capstones — their `requirements.md`/`tasks.md` follow the same two-file format but not the team-capstone content described below (no Gradio UI, no 6-pager/PR-FAQ, no sample_data folder).
 
